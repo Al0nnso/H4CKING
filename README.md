@@ -23,11 +23,11 @@
 
 ## Tools
 The avaliable tools
-- 📊 **DMPShell - Reverse Shell**
-- 📄 **FTPShell - FTP File Server Creator**
-- 🎯 **GeoLocator - Get the machine geographic location**
-- ✅ **MailAutodel - Send a file by email and delete himself**
-- 🏅 ~~**3XCEL - Tutorial to execute a shell with excel tables**~~
+- 📊 **[DMPShell](DMPShell) - Reverse Shell**
+- 📄 **[FTPShell](FTPShell) - FTP File Server Creator**
+- 🎯 **[GeoLocator](GeoLocators/geo_locator.py) - Get the machine geographic location**
+- ✅ **[MailAutodel](MailAutodel/mail_autodel.py) - Send a file by email and delete himself**
+- 🏅 ~~**[3XCEL](3XCEL) - Tutorial to execute a shell with excel tables**~~
 
 ## Description:
 `*not working well`
