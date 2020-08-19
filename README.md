@@ -29,7 +29,7 @@ The avaliable tools
 - ✅ **[MailAutodel](MailAutodel/mail_autodel.py) - Send a file by email and delete himself**
 - 🏅 ~~**[3XCEL](3XCEL) - Tutorial to execute a shell with excel tables**~~
 
-## Description:
+## Description
 `*not working well`
 
 ### 📊 **DMPShell**
