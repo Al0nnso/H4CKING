@@ -29,6 +29,18 @@ The avaliable tools
 - ✅ **[MailAutodel](MailAutodel/mail_autodel.py) - Send a file by email and delete himself**
 - 🏅 ~~**[3XCEL](3XCEL) - Tutorial to execute a shell with excel tables**~~
 
+## To compile
+[pyinstaler](https://pypi.org/project/pyinstaller/) -
+[documentation](https://pyinstaller.readthedocs.io/en/v4.0/)  
+Using **pyinstaller** to compile and make the executable  
+
+> pip install pyinstaller  
+> pyinstaler --onefile --noconsole FILE.py
+
+> **--noconsole** ( no show console when open )  
+> **--onefile** ( create only one .exe file )  
+> **--icon=app.ico** ( set icon to the file)
+
 ## Description
 `*not working well`
 
