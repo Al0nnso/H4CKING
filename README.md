@@ -30,6 +30,8 @@ The avaliable tools
 - 🏅 ~~**3XCEL - Tutorial to execute a shell with excel tables**~~
 
 ## Description:
+`*not working well`
+
 ### 📊 **DMPShell**
 A reverse shell to get total access to the computer
 - Powershell
@@ -40,8 +42,6 @@ A reverse shell to get total access to the computer
 - Send and Get files
 - Get WEBCAM*  
 
-`*not working well`
-
 ### 📄 **FTPShell**
 A script to init a FTP file server in  the machine
 - Read / Download / Get files in the machine
@@ -50,15 +50,11 @@ A script to init a FTP file server in  the machine
 - Server like directory listing
 - Change by disks*  
 
-`*not working well`
-
 ### 🎯 **GeoLocator**
 Many scripts to get the geographic machine location
 1. With geocoder library
 2. With ipregistry library
 3. With Google TOKEN and street number*  
-
-`*not working well`
 
 ### ✅ **MailAutodel**
 A script to send a machine file by email and delete himself
@@ -67,8 +63,6 @@ A script to send a machine file by email and delete himself
 - Send Login Data*
 - Auto-delete
 - Send files  
-
-`*not working well`
 
 <!--## License
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.-->
